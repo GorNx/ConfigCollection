@@ -1,2 +1,3 @@
 # ConfigCollection
-私用配置集合
+
+Private configuration collection
